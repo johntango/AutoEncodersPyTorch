@@ -1,6 +1,4 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
-
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+# PS6 AutoEncoders - GitHub Codespaces ♥️ Jupyter Notebooks
 
 This is a problem set on AutoEncoders initially Forked from AI-For-Beginners Repo https://github.com/microsoft/AI-For-Beginners 
 
